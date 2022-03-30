@@ -1,4 +1,4 @@
-# yo, I'm Stagfoo or Alex
+# yo, I'm Stagfoo aka Alex
 I like mini programs that compose, building games, making 3d and sometimes drawing.
 
 ## 🪴 My "Libraries"
