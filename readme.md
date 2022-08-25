@@ -9,11 +9,11 @@ sometimes I built games, make 3d models and draw.
 - [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
 
 ## 💽 Cool mini apps
+- [Karasu](https://github.com/stagfoo/karasu) (Nim)
 - [Hotakes](http://hotake.stagfoo.com/) (TS)
 - [Cover](https://cover.stagfoo.com/) (TS)
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Amico](https://github.com/stagfoo/amico-fe) (TS but might re-write in clojure)
-- [Karasu](https://github.com/stagfoo/karasu) (Nim)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
 
 ## 🕹️ Games
