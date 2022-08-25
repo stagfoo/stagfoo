@@ -1,21 +1,23 @@
 # yo, I'm Stagfoo aka Alex
-I like mini programs that compose, building games, making 3d and sometimes drawing.
+I like mini programs that compose
+sometimes I built games, make 3d models and draw.
 
 ## 🪴 My "Libraries"
-- [Obake.js](https://github.com/stagfoo/obake)
-- [joro](https://github.com/stagfoo/joro)
-- [fiskabur](https://github.com/stagfoo/fiskabur)(kinda wip)
+- [Obake.js](https://github.com/stagfoo/obake) (TS)
+- [Joro](https://github.com/stagfoo/joro) (TS) 
+- [Fiskabur](https://github.com/stagfoo/fiskabur) (Python)
+- [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
 
 ## 💽 Cool mini apps
-- [hotakes](http://hotake.stagfoo.com/) (todo move to surge)
-- [cover](https://cover.stagfoo.com/) (todo move to surge)
-- [deathmark](https://github.com/stagfoo/deathmark)
-- [otsumoji](https://github.com/stagfoo/otsumoji)
-- [amico](https://github.com/stagfoo/amico-fe)
+- [Hotakes](http://hotake.stagfoo.com/) (TS)
+- [Cover](https://cover.stagfoo.com/) (TS)
+- [Deathmark](https://github.com/stagfoo/deathmark) (TS)
+- [Amico](https://github.com/stagfoo/amico-fe) (TS but will re-write in clojure)
+- [Karasu](https://github.com/stagfoo/karasu) (Nim)
+- [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
 
 ## 🕹️ Games
 - [itch.io](https://stagfoo.itch.io/)
-- will post some game repos here sometime
 
 ### stagfoo?
 stag as in the animal and foo as in the bar
