@@ -17,7 +17,7 @@ sometimes I build games, make 3d models and draw.
 - [Karasu](https://github.com/stagfoo/karasu) (Nim)
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
-
+- [_pin](https://github.com/stagfoo/_pin) (HTML)
 ## 🕹️ Games
 - [itch.io](https://stagfoo.itch.io/)
 
