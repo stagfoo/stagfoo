@@ -13,7 +13,7 @@ sometimes I build games, make 3d models and draw.
 - [Hotakes](http://hotake.stagfoo.com/) (TS)
 - [Cover](https://cover.stagfoo.com/) (TS)
 - [Amico](https://github.com/stagfoo/amico-fe) (TS but might re-write in clojure)
-## Offline Mini Apps
+## ✨ Offline Mini Apps
 - [Karasu](https://github.com/stagfoo/karasu) (Nim)
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
