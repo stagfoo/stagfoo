@@ -25,6 +25,6 @@ sometimes I build games, make 3d models and draw.
 stag as in the animal and foo as in the bar
 
 
-# One Offs
+# 🪨 Stable & Stopped 
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
