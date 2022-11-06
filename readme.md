@@ -12,7 +12,7 @@ sometimes I build games, make 3d models and draw.
 - [Hotakes](http://hotake.stagfoo.com/) (TS)
 - [Cover](https://cover.stagfoo.com/) (TS)
 - [Amico](https://github.com/stagfoo/amico-fe) (TS but might re-write in clojure)
-- 
+
 ## ✨ Offline Mini Apps
 - [_pin](https://github.com/stagfoo/_pin) (HTML)
 - [otxto](https://github.com/stagfoo/otxto) (Chumbucket + Fiskabur + todot.txt) (private for now) 
