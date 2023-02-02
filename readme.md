@@ -28,3 +28,5 @@ stag as in the animal and foo as in the bar
 # 🪨 Stable & Stopped 
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
+
+[![Stagfoos's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stagfoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
