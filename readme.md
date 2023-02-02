@@ -1,6 +1,11 @@
-# yo, I'm Stagfoo aka Alex
-I like mini programs that follow the Single-responsibility principle
-sometimes I build games, make 3d models and draw.
+# Stagfoo 🦌
+
+I like making mini programs 🪴
+I aim to spread the Single-responsibility principle as much as possible in my work✨
+
+💻 when im not programing I make 3D, cute art and mini games 👾
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H616GHW)
 
 ## 🪴 My "Libraries"
 - [Obake.js](https://github.com/stagfoo/obake) (TS)
