@@ -4,6 +4,7 @@ I like making mini programs 🪴
 I aim to spread the Single-responsibility principle as much as possible in my work✨
 
 💻 when im not programing I make 3D, cute art and mini games 👾
+- [more on my itch.io](https://stagfoo.itch.io/)
 
 ## 🪴 My "Libraries"
 - [Obake.js](https://github.com/stagfoo/obake) (TS)
@@ -20,7 +21,7 @@ I aim to spread the Single-responsibility principle as much as possible in my wo
 - [_pin](https://github.com/stagfoo/_pin) (HTML)
 - [otxto](https://github.com/stagfoo/otxto) (Chumbucket + Fiskabur + todot.txt) (private for now)
 - [Cover Player](planned)
-- [more on my itch.io](https://stagfoo.itch.io/)
+
 
 [![Stagfoos's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stagfoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
