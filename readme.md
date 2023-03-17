@@ -7,15 +7,18 @@ I aim to spread the Single-responsibility principle as much as possible in my wo
 - [more on my itch.io](https://stagfoo.itch.io/)
 
 ## 🪴 My "Libraries"
+
+
+
+
 - [Obake.js](https://github.com/stagfoo/obake) (TS)
 - [Joro](https://github.com/stagfoo/joro) (TS) 
 - [Fiskabur](https://github.com/stagfoo/fiskabur) (Python)
 - [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
 
 ## 💽 Online mini apps
-- [Hotakes](http://hotake.stagfoo.com/) (TS)
-- [Cover](https://cover.stagfoo.com/) (TS)
-- [Amico](https://github.com/stagfoo/amico-fe) (TS but might re-write in drei)
+
+<a href="https://hotake.stagfoo.com/"><img src="/github-capsule(1).png"></a> <a href="https://cover.stagfoo.com/"><img src="/github-capsule.png"></a> <a href="https://github.com/stagfoo/amico-fe"><img src="/github-capsule(2).png"></a>
 
 ## ✨ Offline Mini Apps & Games
 - [_pin](https://github.com/stagfoo/_pin) (HTML)
