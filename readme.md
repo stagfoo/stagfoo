@@ -6,24 +6,15 @@ I aim to spread the Single-responsibility principle as much as possible in my wo
 💻 when im not programing I make 3D, cute art and mini games 👾
 - [more on my itch.io](https://stagfoo.itch.io/)
 
-## 🪴 My "Libraries"
-
-
-
-
-- [Obake.js](https://github.com/stagfoo/obake) (TS)
-- [Joro](https://github.com/stagfoo/joro) (TS) 
-- [Fiskabur](https://github.com/stagfoo/fiskabur) (Python)
-- [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
+## ✨ Offline Mini Apps & Games
+- [_pin](https://github.com/stagfoo/_pin) (HTML)
+- [otxto](https://github.com/stagfoo/otxto) (Chumbucket + Flutter + todot.txt)
+- [Cover Player](planned)
+- [karasu](https://github.com/stagfoo/karasu) (Chumbucket + Flutter) (originally in nim)
 
 ## 💽 Online mini apps
 
 <a href="https://hotake.stagfoo.com/"><img src="/github-capsule(1).png"></a> <a href="https://cover.stagfoo.com/"><img src="/github-capsule.png"></a> <a href="https://github.com/stagfoo/amico-fe"><img src="/github-capsule(2).png"></a>
-
-## ✨ Offline Mini Apps & Games
-- [_pin](https://github.com/stagfoo/_pin) (HTML)
-- [otxto](https://github.com/stagfoo/otxto) (Chumbucket + Fiskabur + todot.txt) (private for now)
-- [Cover Player](planned)
 
 
 [![Stagfoos's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stagfoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -44,4 +35,9 @@ Here are some projects that I have either completed or put on hold:
 
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
-- [karasu](https://github.com/stagfoo/karasu) (Nim)
+
+## 🪴 My "Libraries"
+- [Obake.js](https://github.com/stagfoo/obake) (TS)
+- [Joro](https://github.com/stagfoo/joro) (TS) 
+- [Fiskabur](https://github.com/stagfoo/fiskabur) (Python)
+- [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
