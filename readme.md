@@ -4,13 +4,13 @@ I like making mini programs 🪴
 I aim to spread the Single-responsibility principle as much as possible in my work✨
 
 💻 when im not programing I make 3D, cute art and mini games 👾
+- [blog](https://blog.stagfoo.com/)
 - [more on my itch.io](https://stagfoo.itch.io/)
 
 ## ✨ Offline Mini Apps & Games
+
+<a href="https://github.com/stagfoo/otxto"><img src="/github-capsule(8).png"></a><a href="https://github.com/stagfoo/karasu"><img src="/github-capsule(6).png"></a> 
 - [_pin](https://github.com/stagfoo/_pin) (HTML)
-- [otxto](https://github.com/stagfoo/otxto) (Chumbucket + Flutter + todot.txt)
-- [Cover Player](planned)
-- [karasu](https://github.com/stagfoo/karasu) (Chumbucket + Flutter) (originally in nim)
 
 ## 💽 Online mini apps
 
