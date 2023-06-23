@@ -16,9 +16,6 @@ I aim to spread the Single-responsibility principle as much as possible in my wo
 
 <a href="https://hotake.stagfoo.com/"><img src="/github-capsule(1).png"></a> <a href="https://cover.stagfoo.com/"><img src="/github-capsule.png"></a> <a href="https://github.com/stagfoo/amico-fe"><img src="/github-capsule(2).png"></a>
 
-
-[![Stagfoos's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stagfoo&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 👀 Want to contribute?
 If you are interested in contributing to any of my projects, feel free to reach out to me through the GitHub repo.
 
