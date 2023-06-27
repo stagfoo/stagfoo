@@ -23,7 +23,6 @@ If you are interested in contributing to any of my projects, feel free to reach 
 If you appreciate my work and would like to support me financially, you can donate via Ko-fi or Liberapay. Your support helps me to continue creating open source software.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H616GHW)
-[![Librepay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/stagfoo/donate)
 
 Thank you for visiting my page!
 
