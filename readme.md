@@ -4,29 +4,16 @@ I like making mini programs 🪴
 I aim to spread the Single-responsibility principle as much as possible in my work✨
 
 💻 when im not programing I make 3D, cute art and mini games 👾
+
 - [blog](https://blog.stagfoo.com/)
 - [more on my itch.io](https://stagfoo.itch.io/)
-
-## ✨ Offline Mini Apps & Games
-
-<a href="https://github.com/stagfoo/otxto"><img src="/github-capsule(8).png"></a><a href="https://github.com/stagfoo/karasu"><img src="/github-capsule(6).png"></a> 
-- [_pin](https://github.com/stagfoo/_pin) (HTML)
-
-## 💽 Online mini apps
-
-<a href="https://hotake.stagfoo.com/"><img src="/github-capsule(1).png"></a> <a href="https://cover.stagfoo.com/"><img src="/github-capsule.png"></a> <a href="https://github.com/stagfoo/amico-fe"><img src="/github-capsule(2).png"></a>
 
 ## 👀 Want to contribute?
 If you are interested in contributing to any of my projects, feel free to reach out to me through the GitHub repo.
 
-## 💰 Donate
-If you appreciate my work and would like to support me financially, you can donate via Ko-fi or Liberapay. Your support helps me to continue creating open source software.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H616GHW)
-
 Thank you for visiting my page!
 
-# 🪨 Maintance mode
+# 🪨 Completed
 Here are some projects that I have either completed or put on hold:
 
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
