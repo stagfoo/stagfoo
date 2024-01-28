@@ -3,7 +3,7 @@
 I like making mini programs 🪴
 I aim to spread the Single-responsibility principle as much as possible in my work✨
 
-💻 when im not programing I make 3D, cute art and mini games 👾
+💻 when I'm not programming I make cute art and mini games 👾
 
 - [blog](https://blog.stagfoo.com/)
 - [more on my itch.io](https://stagfoo.itch.io/)
