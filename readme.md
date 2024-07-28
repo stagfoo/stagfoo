@@ -5,7 +5,7 @@ I aim to spread the Single-responsibility principle as much as possible in my wo
 
 💻 when I'm not programming I make cute art and mini games 👾
 
-- [blog](https://blog.stagfoo.com/)
+- [blog](https://stagfoo.com/)
 - [more on my itch.io](https://stagfoo.itch.io/)
 
 ## 👀 Want to contribute?
