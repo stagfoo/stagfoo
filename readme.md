@@ -18,9 +18,9 @@ Here are some projects that I have either completed or put on hold:
 
 - [Deathmark](https://github.com/stagfoo/deathmark) (TS)
 - [Otsumoji](https://github.com/stagfoo/otsumoji) (Python)
-
-## 🪴 My "Libraries"
 - [Obake.js](https://github.com/stagfoo/obake) (TS)
 - [Joro](https://github.com/stagfoo/joro) (TS) 
 - [Fiskabur](https://github.com/stagfoo/fiskabur) (Python)
+
+## 🪴 My "Libraries"
 - [Chumbucket](https://github.com/stagfoo/chumbucket) (TS)
